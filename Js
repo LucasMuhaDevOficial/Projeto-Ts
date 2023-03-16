@@ -1,0 +1,5 @@
+import dados from './dados.json';
+
+console.log(`Nome: ${dados.nome}`);
+console.log(`Idade: ${dados.idade}`);
+console.log(`E-mail: ${dados.email}`);
